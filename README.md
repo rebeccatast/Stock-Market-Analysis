@@ -11,4 +11,7 @@ The script will loop through all stocks for each year, for all sheets in the wor
     
 The script also uses conditional formatting to distinguish between stocks that had an overall positive yearly price change (in green) and stocks that had an overall negative yearly price change (in red). 
 
-Finally, the script provides the ticker symbol for the stock with greatest percent increase and the value associated with that percent, the greatest percent decrease and the value associated with that percent, and the stock with the greatest total volume and the value associated with that volume. 
+Finally, the script provides the ticker symbol for the following:
+   - Stock with the greatest percent increase and the value associated with that percent.
+   - Stock with the greatest percent decrease and the value associated with that percent. 
+   - Stock with the greatest total volume and the value associated with that volume. 
